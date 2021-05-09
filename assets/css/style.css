@@ -1,0 +1,46 @@
+.mi-navbar{
+    position:absolute;
+    background-color: transparent !;
+    z-index: 999;
+    color: white;
+}
+
+.letra{
+    color: white !important;
+    width: 30px;
+}
+
+.inicio{
+    background-color: black;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+}
+.titulo{
+    text-align: center;
+    padding:3rem;
+    margin: 0;
+}
+
+.fondo{
+    background-color: rgb(11, 192, 247);
+}
+
+.cartas-separacion{
+    margin: 1em;
+}
+
+.typefon{
+    padding: 0 3rem;
+}
+
+.pie-pag{
+    background-color: rgb(11, 192, 247);
+    text-align: center;
+    color: white;
+}
+
+.favicon{
+    color: white;
+    padding:5px;
+}
