@@ -21,6 +21,7 @@
     color: white;
     margin: 0%;
     padding: 0%;
+    border: 0;
 }
 .titulo{
     text-align: center;
@@ -34,6 +35,11 @@
 
 .cartas-separacion{
     margin: 1em;
+    border: 0;
+}
+
+.carta{
+    border: 0;
 }
 
 .typefon{
@@ -53,4 +59,10 @@
 
 .espacioquienes{
     width: 140px;
+}
+
+.barra-separadora{
+    background-color: rgb(11, 192, 247);
+    width: 95%;
+    height: 2px;
 }
