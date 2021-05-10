@@ -1,8 +1,14 @@
+
+
+*{
+    font-family: Kodchasan;
+}
+
 .mi-navbar{
-    position:absolute;
-    background-color: transparent !;
+    /* position:absolute; */
     z-index: 999;
     color: white;
+    
 }
 
 .letra{
